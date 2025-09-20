@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5752115b-1f51-41be-a672-6a06d068e343" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oG38kv2lDxLiYPK2KgE8mavmuG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mAIN2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_dulieu_hinhanh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_dulieu_video.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_ketqua.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_video.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testgpu.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/hoctapki7/TGMT/BTL_NgoQuocKhanh_92950/BTL_NgoQuocKhanh_92950&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5752115b-1f51-41be-a672-6a06d068e343" name="Changes" comment="" />
+      <created>1730481929532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730481929532</updated>
+      <workItem from="1730481930713" duration="119000" />
+      <workItem from="1730482098439" duration="371000" />
+      <workItem from="1730482495092" duration="1146000" />
+      <workItem from="1730641442056" duration="1114000" />
+      <workItem from="1731403807776" duration="1503000" />
+      <workItem from="1731497476960" duration="249000" />
+      <workItem from="1731497980512" duration="809000" />
+      <workItem from="1731498794472" duration="570000" />
+      <workItem from="1731500675798" duration="1220000" />
+      <workItem from="1732517383133" duration="1854000" />
+      <workItem from="1732549988003" duration="726000" />
+      <workItem from="1732622883948" duration="4477000" />
+      <workItem from="1732647025916" duration="749000" />
+      <workItem from="1732775925271" duration="624000" />
+      <workItem from="1732781408872" duration="1147000" />
+      <workItem from="1732786688739" duration="706000" />
+      <workItem from="1732874210504" duration="516000" />
+      <workItem from="1733194267285" duration="862000" />
+      <workItem from="1733388321946" duration="485000" />
+      <workItem from="1733389011668" duration="1113000" />
+      <workItem from="1733572325111" duration="4735000" />
+      <workItem from="1733672924930" duration="1216000" />
+      <workItem from="1733694982324" duration="910000" />
+      <workItem from="1733752353979" duration="1830000" />
+      <workItem from="1734271175149" duration="2632000" />
+      <workItem from="1734368209183" duration="151000" />
+      <workItem from="1734400976148" duration="2637000" />
+      <workItem from="1734415843211" duration="2777000" />
+      <workItem from="1734595923925" duration="1372000" />
+      <workItem from="1734882849091" duration="3444000" />
+      <workItem from="1734887031206" duration="1273000" />
+      <workItem from="1734888339498" duration="3201000" />
+      <workItem from="1734939476110" duration="2618000" />
+      <workItem from="1734949952343" duration="624000" />
+      <workItem from="1735005763419" duration="3665000" />
+      <workItem from="1735010643221" duration="3114000" />
+      <workItem from="1735061911251" duration="592000" />
+      <workItem from="1735062682149" duration="251000" />
+      <workItem from="1735113386680" duration="6826000" />
+      <workItem from="1735205500212" duration="7342000" />
+      <workItem from="1735280200928" duration="924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Main_py$test_video.coverage" NAME="test_video Coverage Results" MODIFIED="1735280476121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Main_py$testgpu.coverage" NAME="testgpu Coverage Results" MODIFIED="1734889707201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Main_py$test_ketqua.coverage" NAME="test_ketqua Coverage Results" MODIFIED="1735013676776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Main_py$test_dulieu_hinhanh.coverage" NAME="test_dulieu_hinhanh Coverage Results" MODIFIED="1735126854378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Main_py$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1735125209808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Main_py$test.coverage" NAME="test Coverage Results" MODIFIED="1735007178857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Main_py$mAIN2.coverage" NAME="mAIN2 Coverage Results" MODIFIED="1730483497056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../BTL_TGMT_facemask_" />
+    <SUITE FILE_PATH="coverage/Main_py$test_dulieu_video.coverage" NAME="test_dulieu_video Coverage Results" MODIFIED="1735117101135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Main_py$Main.coverage" NAME="Main Coverage Results" MODIFIED="1735216963151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
