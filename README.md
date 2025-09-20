@@ -47,4 +47,4 @@ Trên thực nghiệm:
 
 ---
 
-[source model] https://universe.roboflow.com/object-mfpha/facemask-detection-nyuzn/dataset/4
+[source model] (https://universe.roboflow.com/object-mfpha/facemask-detection-nyuzn/dataset/4)
